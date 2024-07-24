@@ -4,6 +4,7 @@ install:
 		pip install -r requirements.txt
 lint:
 	#flake8 or #pylit
+	pylint --disable=R,C *.py mylib/*.py
 format:
 	#format commands
 	black *.py mylib/*.py
