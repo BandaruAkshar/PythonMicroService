@@ -10,6 +10,9 @@ format:
 	black *.py mylib/*.py
 test:
 	#test commands
+
+build:
+	#build container
 deploy:
 	#deploy commands
 
