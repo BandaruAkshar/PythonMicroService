@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/BandaruAkshar/PythonMicroService/actions/workflows/devops.yml/badge.svg)](https://github.com/BandaruAkshar/PythonMicroService/actions/workflows/devops.yml)
+
 # PythonMicroService
 
 # Scaffold
