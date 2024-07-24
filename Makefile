@@ -6,6 +6,7 @@ lint:
 	#flake8 or #pylit
 format:
 	#format commands
+	black *.py mylib/*.py
 test:
 	#test commands
 deploy:
