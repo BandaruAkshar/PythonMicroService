@@ -10,6 +10,7 @@ format:
 	black *.py mylib/*.py
 test:
 	#test commands
+	python -m pytest -vv --cov=mylib --cov=main test_*.py
 
 build:
 	#build container
